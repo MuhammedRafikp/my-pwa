@@ -38,7 +38,6 @@ function App() {
       {/* Main Content */}
       <header className="App-header">
         <h2>Welcome to My Progressive Web App!</h2>
-        <p>This is a simple example with a collapsible navigation bar.</p>
       </header>
     </div>
   );
